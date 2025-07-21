@@ -4,11 +4,8 @@
 
 - 🔭 I’m currently working on [secure cloud based file storage system](https://github.com/aliuzair1/Secure_Web_Based_File_Storage_System.git)
 
-- 🌱 I’m currently learning **payload scripts**
+- 🌱 I’m currently learning **bash scripting**
 
-- 👯 I’m looking to collaborate on **web application based projects**
-
-- 💬 Ask me about **web application penetration testing and networking**
 
 - 📫 How to reach me **aliuzair869@gmail.com**
 
