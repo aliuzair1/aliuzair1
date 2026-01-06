@@ -2,9 +2,9 @@
 <h3 align="center">A passionate cyber security apprentice from Pakistan</h3>
 <img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFlcmFidmlyZGU0ZmJ3NGRwM3R2cXRwZmJwMXdmcHoxZWo0ZW5qMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif"  />
 
-- 🔭 I’m currently working on [secure cloud based file storage system](https://github.com/aliuzair1/Secure_Web_Based_File_Storage_System.git)
+- 🔭 I’m currently working on **Machine Learning** and **Web Security**.
 
-- 🌱 I’m currently learning **bash scripting**
+- 🌱 I’m currently learning *Computer Networking*
 
 
 - 📫 How to reach me **aliuzair869@gmail.com**
