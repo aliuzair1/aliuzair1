@@ -14,14 +14,10 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    # Temporary fallback only if an action still depends on Node 20:
-    # env:
-    #   ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
 
     steps:
       - name: Generate pacman SVG
-        # Replace with a pinned tag/commit you trust, do not use @main
-        uses: abozanona/pacman-contribution-graph@v0.1.0
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
